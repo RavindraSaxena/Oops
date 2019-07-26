@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopsDemo", "OopsDemo\OopsDemo.csproj", "{C9484DA7-17BD-4334-8874-8F3D6A80F280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashDemo", "HashDemo\HashDemo.csproj", "{3AC8A4CC-55F3-4276-B3EB-50D7B9C1FF27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9484DA7-17BD-4334-8874-8F3D6A80F280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9484DA7-17BD-4334-8874-8F3D6A80F280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9484DA7-17BD-4334-8874-8F3D6A80F280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9484DA7-17BD-4334-8874-8F3D6A80F280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC8A4CC-55F3-4276-B3EB-50D7B9C1FF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC8A4CC-55F3-4276-B3EB-50D7B9C1FF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC8A4CC-55F3-4276-B3EB-50D7B9C1FF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC8A4CC-55F3-4276-B3EB-50D7B9C1FF27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77B31564-8CA5-481C-AEC4-D3C089843632}
+	EndGlobalSection
+EndGlobal
